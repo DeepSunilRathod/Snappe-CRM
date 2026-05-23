@@ -1,6 +1,6 @@
 {
   "buildCommand": "ng build",
-  "outputDirectory": "dist/snappe-angular",
+  "outputDirectory": "dist/snappe-angular/browser",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
